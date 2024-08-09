@@ -1,2 +1,3 @@
 # Korean-Romanizer-KoreanName
-A modified version specialized for names from 'crizin/korean-romanizer', providing a variety of name combinations.
+Specialized for korean names. providing a variety of name combinations.
+
