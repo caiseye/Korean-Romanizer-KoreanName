@@ -1,6 +1,5 @@
 package com.example.terry;
 
-import java.lang.reflect.Array;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -72,8 +71,9 @@ public class KoreanRomanizer {
 			put("윤", new String[] {"Yoon", "Yun"});
 			put("이", new String[] {"Lee", "Yi", "I"});
 			put("임", new String[] {"Lim", "Im"});
+			put("장", new String[] {"Jang", "Chang"});
 			put("장곡", new String[] {"Janggok", "Jangkok"});
-			put("정", new String[] {"Jung", "Jeong"});
+			put("정", new String[] {"Jung", "Jeong", "Chung", "Cheong"});
 			put("제갈", new String[] {"Jegal", "Jekal"});
 			put("조", new String[] {"Cho", "Jo"});
 			put("주", new String[] {"Joo", "Ju", "Choo"});
@@ -89,7 +89,6 @@ public class KoreanRomanizer {
 			put("황목", new String[] {"Hwangmok"});
 			put("황보", new String[] {"Hwangbo", "Hwangpo"});
 			put("흥", new String[] {"Hong", "Heoung"});
-
 		}
 	};
 

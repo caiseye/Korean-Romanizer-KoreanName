@@ -337,7 +337,7 @@ public class KoreanCharacter implements Serializable, Comparable<KoreanCharacter
 		ㅒ(new String[]{"yae"}, true),
 		ㅓ(new String[]{"eo"}, false),
 		ㅔ(new String[]{"e"}, false),
-		ㅕ(new String[]{"yeo"}, true),
+		ㅕ(new String[]{"yeo", "you"}, true),
 		ㅖ(new String[]{"ye"}, true),
 		ㅗ(new String[]{"o"}, false),
 		ㅘ(new String[]{"wa", "owa"}, false),
@@ -348,7 +348,7 @@ public class KoreanCharacter implements Serializable, Comparable<KoreanCharacter
 		ㅝ(new String[]{"wo"}, false),
 		ㅞ(new String[]{"we"}, false),
 		ㅟ(new String[]{"wi", "wee"}, false),
-		ㅠ(new String[]{"yu", "u"}, true),
+		ㅠ(new String[]{"yu", "u", "yoo"}, true),
 		ㅡ(new String[]{"eu"}, false),
 		ㅢ(new String[]{"ui"}, false),
 		ㅣ(new String[]{"i", "y"}, true);
